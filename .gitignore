@@ -6,4 +6,3 @@
 *.ear
 /.emacs.desktop
 /.emacs.desktop.lock
-/nbactions.xml
